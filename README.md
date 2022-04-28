@@ -12,6 +12,6 @@ Vociferous - music bot for Discord since 2022
 **role <genre>** == Get role by your favourite genres!
   Roles: melomaniac, rocker, EDMer, rapper, classician, bluesman
   
-**!role <genre>** remove == 'Remove role by genre'
+**!role <genre>** remove == Remove role by genre
   
 **!FAQ** == More info about us
