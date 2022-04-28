@@ -9,9 +9,9 @@ Vociferous - music bot for Discord since 2022
   
 **!play/!pause** == Plays/pauses song
   
-**role <genre>** == Get role by your favourite genres!
+**!role GENRE** == Get role by your favourite genres!
   Roles: melomaniac, rocker, EDMer, rapper, classician, bluesman
   
-**!role <genre>** remove == Remove role by genre
+**!role GENRE** remove == Remove role by genre
   
 **!FAQ** == More info about us
